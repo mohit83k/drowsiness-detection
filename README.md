@@ -8,7 +8,7 @@ of time, we can deduce if a person is drowsy or not.
 ## Requirement
   - Python 
   - Video capture Device ex webcam
-  - Dependent Modules to be insatlled
+  - Dependent Modules to be installed
 
 ## Usage
   Connect Device and run analyse.py
